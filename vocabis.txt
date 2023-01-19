@@ -1,0 +1,5 @@
+displayTotalPrice => totalPrices 
+
+.995432112
+.556841244
+.456544231
